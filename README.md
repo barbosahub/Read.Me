@@ -20,7 +20,9 @@
 ![Icon Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white])
 ![Icon Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white])
 <br>
-<p align="justify">No github tenho diversos repositórios simples que podem ajudar no desenvolvimento do seu projeto, Alert com WebForms, WebService de CEP, primeiros passos com Swagger, elemento de Darkmode, Flexbox para deixar seu site responsivo e muito mais.
+
+
+<p align="justify"><br>No GitHub tenho diversos repositórios simples que podem ajudar no desenvolvimento do seu projeto, Alert com WebForms, WebService de CEP, primeiros passos com Swagger, elemento de Darkmode, Flexbox para deixar seu site responsivo e muito mais.
 </p>
 <br>
 <p align="justify">Caso tenha interesse em bater um papo, pode me enviar uma mensagem atráves das redes sociais.
