@@ -21,7 +21,8 @@
 ![Icon Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white])
 
 
-
+<p align="justify">No github tenho diversos repositórios simples que podem ajudar no desenvolvimento do seu projeto, Alert com webforms, WebService de CEP, primeiros passos com Swagger, elemento de Darkmode, Flexbox para deixar seu site responsivo e muito mais.
+</p>
 
 <p align="justify">Caso tenha interesse em bater um papo, pode me enviar uma mensagem atráves das redes sociais.
 </p>
