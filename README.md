@@ -25,7 +25,7 @@
 <p align="justify"><br>No GitHub tenho diversos repositórios simples que podem ajudar no desenvolvimento do seu projeto, Alert com WebForms, WebService de CEP, primeiros passos com Swagger, elemento de Darkmode, Flexbox para deixar seu site responsivo e muito mais.
 </p>
 <br>
-<p align="justify">Caso tenha interesse em bater um papo, pode me enviar uma mensagem atráves das redes sociais.
+<p align="justify">Caso tenha interesse em bater um papo, pode me enviar uma mensagem atráves das redes sociais abaixo.
 </p>
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/barbosahub)](https://github.com/barbosahub)
