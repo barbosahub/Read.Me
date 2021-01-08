@@ -27,7 +27,7 @@
 <br>
 
 
-<p align="justify"><br>No GitHub tenho diversos repositórios simples que podem ajudar no desenvolvimento do seu projeto, Automação com PowerShell, WebService de CEP, primeiros passos com Swagger, elemento de Darkmode, Flexbox para deixar seu site responsivo e muito mais.
+<p align="justify"><br>No GitHub tenho diversos repositórios simples que podem ajudar no desenvolvimento do seu projeto, WebService de CEP, primeiros passos com Swagger, Spring boot API, elemento de Darkmode, Flexbox para deixar seu site responsivo e muito mais.
 </p>
 <br>
 <p align="justify">Caso tenha interesse em bater um papo, pode me enviar uma mensagem atráves das redes sociais abaixo.
