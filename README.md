@@ -1,7 +1,9 @@
 # Rui Barbosa
 
-<p align="justify"> Oi meu nome é Rui Barbosa, <b>Desenvolvedor </b> apaixonado por solucionar problemas e estudante de Engenharia de Software.
-</p>
+<p align="justify">Fala aí Dev.</p>
+<p align="justify">Meu nome é Rui Barbosa, <b>Desenvolvedor mobile Pleno</b> apaixonado por solucionar problemas.</p>
+
+<p align="justify">Atuo com desenvolvimento android em Java & Kotlin.</p>
 
 > Abaixo algumas tecnologias que estudo e atuo:
 
@@ -43,7 +45,7 @@
 <br>
 
 
-<p align="justify"><br>No GitHub tenho diversos repositórios simples que podem ajudar no desenvolvimento do seu projeto, WebService, primeiros passos com Swagger, Spring boot API, Aplicacões Java/Kotlin com suas bibliotecas e muito mais.
+<p align="justify"><br>No GitHub tenho diversos repositórios simples para introduzir o conhecimento as linguagens.
 </p>
 <br>
 <p align="justify">Caso tenha interesse em bater um papo, pode me enviar uma mensagem atráves das redes sociais abaixo.
