@@ -1,9 +1,9 @@
 # Rui Barbosa
 
 <p align="justify">Fala aí Dev.</p>
-<p align="justify">Meu nome é Rui Barbosa, <b>Desenvolvedor mobile Pleno</b> apaixonado por solucionar problemas.</p>
+<p align="justify">Meu nome é Rui Barbosa, <b>Desenvolvedor Mobile</b> apaixonado por solucionar problemas.</p>
 
-<p align="justify">Atuo com desenvolvimento android em Java & Kotlin.</p>
+<p align="justify">Atuo com desenvolvimento android em Android Jetpack & Compose | Kotlin Multiplatform Mobile | Java & Kotlin | SwiftUi</p>
 
 > Abaixo algumas tecnologias que estudo e atuo:
 
